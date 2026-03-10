@@ -1,5 +1,6 @@
 import java.io.*;
 
+// git update-index --skip-worktree src/Main.java
 // 문제명(https://www.acmicpc.net/problem/문제번호)
 
 public class Main {
